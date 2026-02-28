@@ -23,7 +23,7 @@ const projects = [
             "Proyecto académico de ticketera con flujo de compra, listado de eventos y estructura MVC en PHP (CodeIgniter 3).",
         demo: null,
         github: "https://github.com/MateSalomon15/ticketera-conciertos/blob/main/README.md",
-        image: "/projects/ticketeraking2.png",
+        image: "/projects/ticketeraking2.webp",
     },
 ];
 
